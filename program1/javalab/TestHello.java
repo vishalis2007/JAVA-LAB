@@ -20,4 +20,5 @@ System.out.println("Example:");
 System.out.println("java com.scsvmv.javalab.TestHello Student");
 }
 }
+
 }
