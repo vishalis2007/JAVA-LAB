@@ -21,4 +21,5 @@ System.out.println("Replace 'a' with 'x' in str1: " + str1.replace('a', 'x'));
 System.out.println("Index of str2 in str1: " + str1.indexOf(str2));
 System.out.println("Trim str1: '" + str1.trim() + "'");
 }
+
 }
